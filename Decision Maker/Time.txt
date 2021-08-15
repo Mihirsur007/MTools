@@ -1,0 +1,1 @@
+To start program use python Chooser.py or python3 Chooser.py
